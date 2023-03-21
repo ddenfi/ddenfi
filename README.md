@@ -1,5 +1,8 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Deki NFi</h1>
 <h3 align="center">I'm a person who likes and interested in Technology, Science and Business</h3>
+
+<img align="right" width ="400" alt="Developer" src="https://user-images.githubusercontent.com/99384080/226521938-40fa0fb8-d4ac-48f2-ac36-8b42a5454ae7.gif">
 
 - 🎒 Final year **Bussiness Administration - Diponegoro University** 
 

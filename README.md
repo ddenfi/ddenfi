@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ddenfi&show_icons=true&theme=dark&locale=en" alt="ddenfi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddenfi&" alt="ddenfi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ddenfi&theme=dark" alt="ddenfi" /></p>

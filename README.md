@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Deki NFi</h1>
 <h3 align="center">I'm a person who likes and interested in Technology, Science and Business</h3>
 
-<img align="right" width ="400" alt="Developer" src="https://user-images.githubusercontent.com/99384080/226524839-80fb133f-4766-4328-b958-dced7406b5a0.gif">
+<img align="right" width ="400" alt="Developer" src="https://user-images.githubusercontent.com/99384080/226525645-fd2645fa-6cc6-4b8c-ae5d-9a48edb28a7c.gif">
+
 
 - 🎒 Final year **Bussiness Administration - Diponegoro University** 
 

@@ -5,11 +5,11 @@
 <img align="right" width ="400" alt="Developer" src="https://user-images.githubusercontent.com/99384080/226525645-fd2645fa-6cc6-4b8c-ae5d-9a48edb28a7c.gif">
 
 
-- 🎒 Final year **Bussiness Administration - Diponegoro University** 
+- 🎒 Bachelor of **Bussiness Administration (Information System) - Diponegoro University** 
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **android dev**
+- 💬 Ask me about **Android Dev**
 
 - 📫 How to reach me **deki.nfi@gmail.com**
 

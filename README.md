@@ -7,13 +7,11 @@
 
 - 🎒 Bachelor of **Bussiness Administration (Information System) - Diponegoro University** 
 
-- 🌱 I’m currently learning **NEXT JS**
-
-- 💬 Ask me about **Android Dev**
+- 🌱 I’m currently learning **Business Analyst**
 
 - 📫 How to reach me **deki.nfi@gmail.com**
 
-- ⚡ Fun fact **Photography and videography are in my alter. 😁**
+- ⚡ Fun fact **Photography and videography are in my alter. 😁 Check out my Instagram!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

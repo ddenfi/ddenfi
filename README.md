@@ -5,9 +5,9 @@
 <img align="right" width ="400" alt="Developer" src="https://user-images.githubusercontent.com/99384080/226525645-fd2645fa-6cc6-4b8c-ae5d-9a48edb28a7c.gif">
 
 
-- 🎒 Bachelor of **Bussiness Administration (Information System) - Diponegoro University** 
+- 🎒 Bachelor of **Bussiness Administration (Information System)** 
 
-- 🌱 I’m currently learning **Business Analyst**
+- 🌱 I’m currently learning **AI Engineer**
 
 - 📫 How to reach me **deki.nfi@gmail.com**
 
